@@ -52,7 +52,7 @@ const JustifyContentBasics = () => {
 
   return (
     <PreviewLayout
-      label="justifyContent"
+      label="justify Content hello! "
       selectedValue={justifyContent}
       values={[
         'flex-start',
